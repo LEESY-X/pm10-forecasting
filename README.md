@@ -11,3 +11,5 @@ PM10 예측 오차가 급변 구간에서 커지는지 확인하고, 추가 피�
 ## 실행
 
 Python과 Jupyter가 필요합니다. NumPy, pandas, SciPy, scikit-learn, Matplotlib, joblib을 설치한 뒤, 실험별로 필요한 데이터와 모델 경로를 설정합니다. 입력 데이터와 기존 모델은 프로젝트에서 별도로 준비해야 합니다.
+
+세 번째 노트북은 설치된 경우 XGBoost, LightGBM, CatBoost와 Optuna를 사용합니다.
